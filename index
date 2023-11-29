@@ -1,0 +1,22 @@
+<p>This is a sample paragraph. You can use the HTML tags to format text, such as adding bold or italic styles.</p>
+
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
+
+<img src="image.jpg" alt="Example Image">
+
+<a href="https://www.example.com">Click here</a> to visit an external website.
+
+<table>
+    <tr>
+        <th>Header 1</th>
+        <th>Header 2</th>
+    </tr>
+    <tr>
+        <td>Data 1</td>
+        <td>Data 2</td>
+    </tr>
+</table>
